@@ -50,12 +50,7 @@ public class TestCrossBrowser {
 			System.exit(0);
 		}
 		
-		
-		
-		
-		
-		
-		
+			
 		
 
 	}
